@@ -1,7 +1,8 @@
 id=SonyAppsAlt
 name=Sony Apps Enabler (Alternate) 
-version=4.2 (Alternate)
-versionCode=1
+version=v4.2 (Alternate)
+versionCode=2
 author=Zenith (Magisk by matpower64)
-description=Use this if the normal version doesn't work. Sony Apps Enabler is a ported version of Sony devices' framework files for any Android device. This tricks Play Store into recognizing your Android as a Sony device and therefore, allowing you to install and update Sony devices specific apps directly from Play Store.
-template=4
+support=https://forum.xda-developers.com/apps/magisk/module-sony-apps-enabler-systemless-t3620100/
+description=A port of Sony devices' framework for any Android device. It tricks Play Store into recognizing your device as a Sony one and therefore, allowing you to install Sony devices specific apps directly from it.
+template=1410
